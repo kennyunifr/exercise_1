@@ -1,3 +1,7 @@
 Some text
 some change
+<<<<<<< HEAD
 AAAAA
+=======
+some more changes
+>>>>>>> 3c46691947aff8f7f4d3546c1463ece5e9aeeb63
